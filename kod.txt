@@ -1,3 +1,5 @@
 merhaba dünya
 merhaba yavuz selim
 mert kameranı aç
+test
+test test
